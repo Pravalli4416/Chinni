@@ -2,6 +2,6 @@ public class Hello
 {
     public stativ void main(String args[])
     {
-    System.out.print("hai");
+    System.out.print("pravalli");
     }
 }
